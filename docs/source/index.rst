@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+BK8 - Nhà cái uy tín hàng đầu châu Á với hệ sinh thái game đa dạng và ưu đãi hấp dẫn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`BK8 <https://bk8.democrat/>`_ là một trong những nhà cái online hàng đầu với lượng truy cập lớn nhờ vào hệ sinh thái game đa dạng và nhiều ưu đãi hấp dẫn. Được biết đến như một thiên đường cá cược, BK8 cung cấp hàng trăm trò chơi cá cược hấp dẫn cùng nhiều ưu đãi đặc biệt dành cho hội viên.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Với mục tiêu chinh phục thị trường Việt Nam và Đông Nam Á, BK8 không ngừng đầu tư vào hệ thống dịch vụ, mang đến cho người chơi những trải nghiệm cá cược tuyệt vời. Hệ thống nạp rút tiền nhanh chóng, an toàn và dịch vụ chăm sóc khách hàng chuyên nghiệp cũng là điểm cộng lớn của BK8. Hãy tham gia ngay để khám phá thế giới cá cược đầy thú vị tại BK8!
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 6 Đường 13, Khu Phố 4, Quận 2, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0978234123. 
 
-.. toctree::
+Email: contact@bk8.democrat. 
 
-   usage
-   api
+Website: https://bk8.democrat/ 
+
+#bk8 #nhacaibk8 #trangchubk8 #dangkybk8 #linkbk8
